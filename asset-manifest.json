@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reward-points/static/css/main.2dbdc448.css",
+    "main.js": "/reward-points/static/js/main.5c111ff2.js",
+    "static/js/787.8819bb2b.chunk.js": "/reward-points/static/js/787.8819bb2b.chunk.js",
+    "index.html": "/reward-points/index.html",
+    "main.2dbdc448.css.map": "/reward-points/static/css/main.2dbdc448.css.map",
+    "main.5c111ff2.js.map": "/reward-points/static/js/main.5c111ff2.js.map",
+    "787.8819bb2b.chunk.js.map": "/reward-points/static/js/787.8819bb2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dbdc448.css",
+    "static/js/main.5c111ff2.js"
+  ]
+}
